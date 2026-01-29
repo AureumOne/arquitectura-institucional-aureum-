@@ -57,11 +57,6 @@ const config = {
           position: 'left',
           label: 'Documentation',
         },
-        {
-          to: '/review',
-          label: 'Submit Review',
-          position: 'left',
-        },
       ],
     },
     footer: {
@@ -102,10 +97,6 @@ const config = {
             {
               label: 'Email',
               href: 'mailto:ricardo.daher@aureumone.io',
-            },
-            {
-              label: 'Submit Review',
-              to: '/review',
             },
           ],
         },

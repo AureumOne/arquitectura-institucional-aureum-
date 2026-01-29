@@ -87,15 +87,8 @@ export default function Home() {
             }}>
               <Link
                 className="button button--primary button--lg"
-                to="/docs/purpose"
-                style={{ marginRight: '1rem', marginBottom: '1rem' }}>
+                to="/docs/purpose">
                 Read Documentation
-              </Link>
-              <Link
-                className="button button--secondary button--lg"
-                to="/review"
-                style={{ marginBottom: '1rem' }}>
-                Submit Review
               </Link>
             </div>
 
