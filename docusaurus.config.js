@@ -8,10 +8,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://aureum-one.github.io',
-  baseUrl: '/aureum-structural-stress-test/',
+  baseUrl: '/arquitectura-institucional-aureum/',
 
   organizationName: 'AureumOne',
-  projectName: 'aureum-structural-stress-test',
+  projectName: 'arquitectura-institucional-aureum',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -43,7 +43,7 @@ const config = {
       title: '',
       logo: {
         alt: 'Aureum One Logo',
-        src: 'img/logo.png',
+        src: '/arquitectura-institucional-aureum/img/logo.png',
       },
       items: [
         {
@@ -55,7 +55,7 @@ const config = {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
           position: 'left',
-          label: 'Structural Stress Test',
+          label: 'Arquitectura Institucional Aureum',
         },
       ],
     },

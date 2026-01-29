@@ -1,5 +1,5 @@
 {
-  "name": "aureum-structural-stress-test",
+  "name": "arquitectura-institucional-aureum",
   "version": "1.0.0",
   "main": "server.js",
   "directories": {
@@ -19,15 +19,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AureumOne/aureum-structural-stress-test.git"
+    "url": "git+https://github.com/AureumOne/arquitectura-institucional-aureum.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AureumOne/aureum-structural-stress-test/issues"
+    "url": "https://github.com/AureumOne/arquitectura-institucional-aureum/issues"
   },
-  "homepage": "https://github.com/AureumOne/aureum-structural-stress-test#readme",
+  "homepage": "https://github.com/AureumOne/arquitectura-institucional-aureum#readme",
   "description": "",
   "dependencies": {
     "@docusaurus/core": "^3.9.2",
