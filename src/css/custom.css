@@ -34,8 +34,16 @@ body {
 }
 
 .navbar__logo img {
-  max-width: 50%;
-  height: auto;
+  max-width: 170px !important;
+  height: auto !important;
+  width: auto !important;
+  margin-top: 6px !important;
+}
+
+.navbar .navbar__logo img {
+  max-width: 170px !important;
+  height: auto !important;
+  width: auto !important;
 }
 
 .navbar__items {

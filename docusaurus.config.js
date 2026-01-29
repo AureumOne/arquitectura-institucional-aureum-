@@ -47,6 +47,11 @@ const config = {
       },
       items: [
         {
+          to: '/',
+          label: 'Home',
+          position: 'left',
+        },
+        {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
           position: 'left',
@@ -90,7 +95,7 @@ const config = {
           title: 'Contact',
           items: [
             {
-              label: 'Email',
+              label: 'ricardo.daher@aureumone.io',
               href: 'mailto:ricardo.daher@aureumone.io',
             },
           ],
