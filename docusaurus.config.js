@@ -8,10 +8,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://aureum-one.github.io',
-  baseUrl: '/arquitectura-institucional-aureum/',
+  baseUrl: '/arquitectura-institucional-aureum-/',
 
   organizationName: 'AureumOne',
-  projectName: 'arquitectura-institucional-aureum',
+  projectName: 'arquitectura-institucional-aureum-',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',

@@ -32,7 +32,7 @@ export default function Home() {
               marginBottom: '2rem',
               textTransform: 'uppercase'
             }}>
-              STRUCTURAL STRESS TEST
+              ARQUITECTURA INSTITUCIONAL
             </div>
             
             <h1 style={{ 
