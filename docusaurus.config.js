@@ -63,31 +63,31 @@ const config = {
       style: 'dark',
       links: [
         {
-          title: 'Documentation',
+          title: 'Documentación',
           items: [
             {
-              label: 'Purpose & Reading Contract',
-              to: '/docs/purpose',
+              label: 'Qué es esto',
+              to: '/docs/que-es-esto',
             },
             {
-              label: 'Scope & Assumptions',
-              to: '/docs/scope',
+              label: 'El problema institucional',
+              to: '/docs/el-problema-institucional',
             },
             {
-              label: 'Architecture',
-              to: '/docs/architecture',
+              label: 'Arquitectura en cuatro capas',
+              to: '/docs/arquitectura-en-cuatro-capas',
             },
             {
-              label: 'Failure Modes',
-              to: '/docs/failure-modes',
+              label: 'Gobernanza sin opinión',
+              to: '/docs/gobernanza-sin-opinion',
             },
             {
-              label: 'Evidence & Verifiability',
-              to: '/docs/evidence',
+              label: 'Transparencia y verificabilidad',
+              to: '/docs/transparencia-y-verificabilidad',
             },
             {
-              label: 'Open Questions',
-              to: '/docs/open-questions',
+              label: 'Cierre',
+              to: '/docs/cierre',
             },
           ],
         },
