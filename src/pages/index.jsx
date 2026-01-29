@@ -51,7 +51,7 @@ export default function Home() {
               color: '#7a7a7a',
               fontWeight: '400'
             }}>
-              Adversarial review for failure, governance and evidence integrity
+              Revisión adversarial de fallas, gobernanza e integridad de evidencia
             </p>
             
             <p style={{ 
@@ -61,7 +61,19 @@ export default function Home() {
               lineHeight: '1.8',
               color: '#5a6c7d'
             }}>
-              Aureum One has been designed as a non-custodial patrimonial infrastructure, oriented to institutional profiles that require structural segregation, explicit governance and verifiable evidence in the coordination of physical gold custody with independent third parties.
+              Aureum One ha sido diseñada como una infraestructura patrimonial non-custodial, orientada a perfiles institucionales que requieren segregación estructural, gobernanza explícita y evidencia verificable en la coordinación de custodia de oro físico con terceros independientes.
+            </p>
+            
+            <p style={{ 
+              fontSize: '1rem', 
+              maxWidth: '700px', 
+              margin: '0 auto 1.5rem', 
+              lineHeight: '1.8',
+              color: '#5a6c7d'
+            }}>
+              No asume posesión de activos.<br />
+              No intermedia inversiones.<br />
+              No formula promesas económicas.
             </p>
             
             <p style={{ 
@@ -71,7 +83,7 @@ export default function Home() {
               lineHeight: '1.8',
               color: '#5a6c7d'
             }}>
-              It does not assume possession of assets, does not intermediate investments, nor makes economic promises. It operates as a control, coordination and evidence structure, designed to reduce fiduciary risk and regulatory ambiguity through architecture, not through opinion.
+              Opera exclusivamente como una estructura de control, coordinación y evidencia, concebida para reducir riesgo fiduciario y ambigüedad regulatoria mediante arquitectura, no mediante opinión, certificación ni confianza delegada.
             </p>
             
             <div style={{ marginTop: '3rem', display: 'flex', gap: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>

@@ -43,7 +43,7 @@ const config = {
       title: '',
       logo: {
         alt: 'Aureum One Logo',
-        src: '/arquitectura-institucional-aureum/img/logo.png',
+        src: 'img/logo.png',
       },
       items: [
         {
