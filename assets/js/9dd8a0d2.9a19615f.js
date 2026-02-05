@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarquitectura_institucional_aureum=self.webpackChunkarquitectura_institucional_aureum||[]).push([[617],{8648(u,t,i){i.r(t),i.d(t,{default:()=>r});i(6540);var a=i(6347),e=i(4848);function r(){return(0,e.jsx)(a.rd,{to:"/docs/institutional-overview"})}}}]);
