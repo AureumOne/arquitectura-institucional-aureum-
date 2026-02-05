@@ -66,44 +66,32 @@ const config = {
           title: 'Documentación',
           items: [
             {
-              label: 'Qué es esto',
-              to: '/docs/que-es-esto',
+              label: 'Institutional Overview',
+              to: '/docs/institutional-overview',
             },
             {
-              label: 'El problema institucional',
-              to: '/docs/el-problema-institucional',
+              label: 'Architectural Summary',
+              to: '/docs/architectural-summary',
             },
             {
-              label: 'Restricciones de diseño',
-              to: '/docs/restricciones-de-diseno',
+              label: 'Classification & Boundary Statement',
+              to: '/docs/classification-boundary',
             },
             {
-              label: 'Arquitectura en cuatro capas',
-              to: '/docs/arquitectura-en-cuatro-capas',
+              label: 'What Aureum One Is / What It Is Not',
+              to: '/docs/what-it-is-not',
             },
             {
-              label: 'Gobernanza sin opinión',
-              to: '/docs/gobernanza-sin-opinion',
+              label: 'Structural Stress Test',
+              to: '/docs/structural-stress-test',
             },
             {
-              label: 'Transparencia y verificabilidad',
-              to: '/docs/transparencia-y-verificabilidad',
+              label: 'Reading Contract',
+              to: '/docs/reading-contract',
             },
             {
-              label: 'Límites explícitos',
-              to: '/docs/limites-explicitos',
-            },
-            {
-              label: 'Revisión externa',
-              to: '/docs/revision-externa',
-            },
-            {
-              label: 'Aclaraciones',
-              to: '/docs/aclaraciones',
-            },
-            {
-              label: 'Cierre',
-              to: '/docs/cierre',
+              label: 'Peer Review Entry',
+              to: '/docs/peer-review-entry',
             },
           ],
         },
