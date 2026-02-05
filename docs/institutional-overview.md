@@ -1,4 +1,4 @@
-# Institutional Overview — Super One Pager
+# Institutional Overview
 
 ## Purpose
 

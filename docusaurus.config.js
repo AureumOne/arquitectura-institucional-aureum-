@@ -47,15 +47,10 @@ const config = {
       },
       items: [
         {
-          to: '/',
-          label: 'Home',
-          position: 'left',
-        },
-        {
           type: 'docSidebar',
           sidebarId: 'docsSidebar',
           position: 'left',
-          label: 'Arquitectura Institucional Aureum',
+          label: 'Documentation',
         },
       ],
     },

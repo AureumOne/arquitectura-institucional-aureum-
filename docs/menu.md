@@ -1,3 +1,7 @@
+---
+unlisted: true
+---
+
 # Menu — Additional Documentation
 
 This page provides access to additional institutional documentation pages that are not listed in the main sidebar.

@@ -3,7 +3,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'institutional-overview',
-      label: 'Institutional Overview — Super One Pager',
+      label: 'Institutional Overview',
     },
     {
       type: 'doc',
@@ -34,11 +34,6 @@ const sidebars = {
       type: 'doc',
       id: 'peer-review-entry',
       label: 'Peer Review Entry',
-    },
-    {
-      type: 'doc',
-      id: 'menu',
-      label: 'Menu',
     },
   ],
 };
